@@ -1,0 +1,9 @@
+*.vscode
+*Library
+*Logs
+*obj
+*UserSettings
+*.vsconfig
+*Assembly-CSharp.csproj
+*Nouveau\ Projet.sln
+
